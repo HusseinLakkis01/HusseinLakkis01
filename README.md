@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HusseinLakkis01
-- 👀 I’m interested in Machine Learning, data science, and their applications in the medical field particularly single cell genomics
-- 🌱 I’m currently doing my graduate degree at McGill University
+- 👀 I’m interested in Machine Learning, data science, and their applications in the medical field 
+- 🌱 I recently my graduate degree at McGill University with a focus on ML
 - 💞️ I’m looking to collaborate on Machine Learning projects in various fields
 - 📫 How to reach me husseinlakkis01@gmail.com
 
